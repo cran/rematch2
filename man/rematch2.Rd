@@ -3,7 +3,6 @@
 \docType{package}
 \name{rematch2}
 \alias{rematch2}
-\alias{rematch2-package}
 \title{Match Regular Expressions with a Nicer 'API'}
 \description{
 A small wrapper on 'regexpr' to extract the matches and captured
